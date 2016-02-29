@@ -1,0 +1,6 @@
+id=1 state=down name=游戏通讯 interface=wan1 prio=1 ip_addr=LAN1 app_proto=网络游戏,常用协议 week=1234567 time=00:00-23:59 min_up=26 min_down=153 max_up=51 max_down=307 avg_up=0 avg_down=128 
+id=2 state=down name=小包数据 interface=wan1 prio=1 ip_addr=LAN1 app_proto=小包数据 week=1234567 time=00:00-23:59 min_up=13 min_down=102 max_up=38 max_down=256 avg_up=20 avg_down=200 
+id=3 state=down name=网页浏览 interface=wan1 prio=2 ip_addr=LAN1 app_proto=HTTP协议,网络通讯 week=1234567 time=00:00-23:59 min_up=10 min_down=102 max_up=45 max_down=409 avg_up=15 avg_down=0 
+id=4 state=down name=未知应用 interface=wan1 prio=3 ip_addr=LAN1 app_proto=未知应用 week=1234567 time=00:00-23:59 min_up=3 min_down=25 max_up=45 max_down=409 avg_up=5 avg_down=150 
+id=5 state=down name=视频电影 interface=wan1 prio=4 ip_addr=LAN1 app_proto=P2P电视,网络视频 week=1234567 time=00:00-23:59 min_up=6 min_down=76 max_up=45 max_down=409 avg_up=10 avg_down=0 
+id=6 state=down name=下载传输 interface=wan1 prio=5 ip_addr=LAN1 app_proto=P2P下载,网盘下载,音乐下载,软件管家下载,游戏更新软件,文件传输,其它应用,测速软件 week=1234567 time=00:00-23:59 min_up=3 min_down=25 max_up=45 max_down=409 avg_up=10 avg_down=0 
